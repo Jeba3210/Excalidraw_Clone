@@ -1,0 +1,129 @@
+@font-face {
+    font-family: "Virgil";
+    src: url("Virgil.woff2");
+    font-display: swap;
+  }
+   
+.header_div{
+    width: 650px;
+    height: 44px;
+    border: 2px solid rgb(226, 220, 220);
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* margin-left: 35%;
+    margin-top: 50px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.lower_div{
+   margin-left: 40px;
+}
+
+.lower_div{
+    color: grey;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.div1{
+    height: 36px;
+    width: 36px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+.div2_div{
+    height: 36px;
+    width: 84px;
+    border: 1px solid rgb(207, 203, 203);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div2{
+    width: 132px;
+    height: 36px;
+    display: flex;
+    justify-content: space-between;
+   
+    margin-right: 40px;
+}
+
+.sec1_div{
+    width: 500px;
+    height: 480px;
+    /* border: 1px solid black; */
+    margin-left: 35%;
+    margin-top: 50px;
+}
+.sec1_div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec1_div2{
+    display: flex;
+    justify-content:space-around; 
+    align-items: center;
+}
+.sec1_div2 p, .sec1_div3{
+    font-size: 1.2rem;
+    color: gray;
+}
+.sec_div{
+    display: flex;
+    align-items: center;
+}
+.div_p{
+    margin-left: 0px;
+}
+.sec1_div3{
+    display: flex;
+    align-items: center;
+   margin-left: 100px;
+}
+.foot1_div1{
+    height: 36px;
+    width: 132px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.foot1_div2{
+    height: 36px;
+    width: 72px;
+    border: 1px solid grey;
+    border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 30px;
+}
+.foot1{
+    display: flex;
+}
+.foot2{
+    height: 40px;
+    width: 162px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+
